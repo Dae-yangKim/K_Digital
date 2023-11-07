@@ -1,0 +1,749 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DB1Demo",
+            "request": "launch",
+            "mainClass": "chap18.DB1Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "chap09.Test",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "chap01.HelloWorld",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "HiJava",
+            "request": "launch",
+            "mainClass": "chap01.HiJava",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticDemo",
+            "request": "launch",
+            "mainClass": "chap02.ArithmeticDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "BitOperatorDemo",
+            "request": "launch",
+            "mainClass": "chap02.BitOperatorDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "CastDemo",
+            "request": "launch",
+            "mainClass": "chap02.CastDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "CharBoolDemo",
+            "request": "launch",
+            "mainClass": "chap02.CharBoolDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "CompLogicDemo",
+            "request": "launch",
+            "mainClass": "chap02.CompLogicDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "NumberTypeDemo",
+            "request": "launch",
+            "mainClass": "chap02.NumberTypeDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "PrintfDemo",
+            "request": "launch",
+            "mainClass": "chap02.PrintfDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ScannerDemo",
+            "request": "launch",
+            "mainClass": "chap02.ScannerDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "SignIncrementDemo",
+            "request": "launch",
+            "mainClass": "chap02.SignIncrementDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "SwapDemo",
+            "request": "launch",
+            "mainClass": "chap02.SwapDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "VarDemo",
+            "request": "launch",
+            "mainClass": "chap02.VarDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "EchoDemo",
+            "request": "launch",
+            "mainClass": "chap03.EchoDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "chap03.Ex1",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "chap03.Ex2",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex3",
+            "request": "launch",
+            "mainClass": "chap03.Ex3",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex4",
+            "request": "launch",
+            "mainClass": "chap03.Ex4",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "IfElseDemo",
+            "request": "launch",
+            "mainClass": "chap03.IfElseDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDemo",
+            "request": "launch",
+            "mainClass": "chap03.IncrementDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "MultiDemo",
+            "request": "launch",
+            "mainClass": "chap03.MultiDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "NestedIfDemo",
+            "request": "launch",
+            "mainClass": "chap03.NestedIfDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "OverloadDemo",
+            "request": "launch",
+            "mainClass": "chap03.OverloadDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Switch1Demo",
+            "request": "launch",
+            "mainClass": "chap03.Switch1Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Switch2Demo",
+            "request": "launch",
+            "mainClass": "chap03.Switch2Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Switch3Demo",
+            "request": "launch",
+            "mainClass": "chap03.Switch3Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Switch4Demo",
+            "request": "launch",
+            "mainClass": "chap03.Switch4Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Switch5Demo",
+            "request": "launch",
+            "mainClass": "chap03.Switch5Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "CircleDemo",
+            "request": "launch",
+            "mainClass": "chap04.CircleDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex1(1)",
+            "request": "launch",
+            "mainClass": "chap04.Ex1",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex3(1)",
+            "request": "launch",
+            "mainClass": "chap04.Ex3",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex4(1)",
+            "request": "launch",
+            "mainClass": "chap04.Ex4",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex5",
+            "request": "launch",
+            "mainClass": "chap04.Ex5",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "MethodChainDemo",
+            "request": "launch",
+            "mainClass": "chap04.MethodChainDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "OneToTenDemo",
+            "request": "launch",
+            "mainClass": "chap04.OneToTenDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "PhoneDemo",
+            "request": "launch",
+            "mainClass": "chap04.PhoneDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "chap05.ArrayListDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "CircleArrayDemo",
+            "request": "launch",
+            "mainClass": "chap05.CircleArrayDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "EnumDemo",
+            "request": "launch",
+            "mainClass": "chap05.EnumDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "EnumDemo2",
+            "request": "launch",
+            "mainClass": "chap05.EnumDemo2",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex1(2)",
+            "request": "launch",
+            "mainClass": "chap05.Ex1",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex2(1)",
+            "request": "launch",
+            "mainClass": "chap05.Ex2",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ForEachDemo",
+            "request": "launch",
+            "mainClass": "chap05.ForEachDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "IncrementDemo(1)",
+            "request": "launch",
+            "mainClass": "chap05.IncrementDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "MainArgumentDemo",
+            "request": "launch",
+            "mainClass": "chap05.MainArgumentDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "String1Demo",
+            "request": "launch",
+            "mainClass": "chap05.String1Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "String2Demo",
+            "request": "launch",
+            "mainClass": "chap05.String2Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "String3Demo",
+            "request": "launch",
+            "mainClass": "chap05.String3Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "String4Demo",
+            "request": "launch",
+            "mainClass": "chap05.String4Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "String5Demo",
+            "request": "launch",
+            "mainClass": "chap05.String5Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "VarArgsDemo",
+            "request": "launch",
+            "mainClass": "chap05.VarArgsDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "BoxDemo",
+            "request": "launch",
+            "mainClass": "chap06.BoxDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "FinalclassDemo",
+            "request": "launch",
+            "mainClass": "chap06.FinalclassDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "InheritanceDemo",
+            "request": "launch",
+            "mainClass": "chap06.InheritanceDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "InstanceofDemo",
+            "request": "launch",
+            "mainClass": "chap06.InstanceofDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "UpcastDemo",
+            "request": "launch",
+            "mainClass": "chap06.UpcastDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "FolderTest",
+            "request": "launch",
+            "mainClass": "chap06.chap06_2.FolderTest",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "AbstraceClassDemo",
+            "request": "launch",
+            "mainClass": "chap07.AbstraceClassDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "AnimalDemo",
+            "request": "launch",
+            "mainClass": "chap07.AnimalDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Coin1Demo",
+            "request": "launch",
+            "mainClass": "chap07.Coin1Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Coin2Demo",
+            "request": "launch",
+            "mainClass": "chap07.Coin2Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Controllable2Demo",
+            "request": "launch",
+            "mainClass": "chap07.Controllable2Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ControllableDemo",
+            "request": "launch",
+            "mainClass": "chap07.ControllableDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "CountableTest",
+            "request": "launch",
+            "mainClass": "chap07.CountableTest",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex1(3)",
+            "request": "launch",
+            "mainClass": "chap07.Ex1",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex3(2)",
+            "request": "launch",
+            "mainClass": "chap07.Ex3",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex4(2)",
+            "request": "launch",
+            "mainClass": "chap07.Ex4",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex5(1)",
+            "request": "launch",
+            "mainClass": "chap07.Ex5",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "MovableDemo",
+            "request": "launch",
+            "mainClass": "chap07.MovableDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "NoteBook",
+            "request": "launch",
+            "mainClass": "chap07.NoteBook",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ArraysDemo",
+            "request": "launch",
+            "mainClass": "chap08.ArraysDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "CalendarDemo",
+            "request": "launch",
+            "mainClass": "chap08.CalendarDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ClassDemo",
+            "request": "launch",
+            "mainClass": "chap08.ClassDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex1(4)",
+            "request": "launch",
+            "mainClass": "chap08.Ex1",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex2(2)",
+            "request": "launch",
+            "mainClass": "chap08.Ex2",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex3(3)",
+            "request": "launch",
+            "mainClass": "chap08.Ex3",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex4(3)",
+            "request": "launch",
+            "mainClass": "chap08.Ex4",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex5(2)",
+            "request": "launch",
+            "mainClass": "chap08.Ex5",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex6",
+            "request": "launch",
+            "mainClass": "chap08.Ex6",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex7",
+            "request": "launch",
+            "mainClass": "chap08.Ex7",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex8",
+            "request": "launch",
+            "mainClass": "chap08.Ex8",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "MathDemo",
+            "request": "launch",
+            "mainClass": "chap08.MathDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ObjectMethodDemo",
+            "request": "launch",
+            "mainClass": "chap08.ObjectMethodDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "RandomDemo",
+            "request": "launch",
+            "mainClass": "chap08.RandomDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "SimpleDateFormatDemo",
+            "request": "launch",
+            "mainClass": "chap08.SimpleDateFormatDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderDemo",
+            "request": "launch",
+            "mainClass": "chap08.StringBuilderDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "StringTokenizerDemo",
+            "request": "launch",
+            "mainClass": "chap08.StringTokenizerDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "SystemDemo",
+            "request": "launch",
+            "mainClass": "chap08.SystemDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "EntryDemo",
+            "request": "launch",
+            "mainClass": "chap09.EntryDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex1(5)",
+            "request": "launch",
+            "mainClass": "chap09.Ex1",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex2(3)",
+            "request": "launch",
+            "mainClass": "chap09.Ex2",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "Ex3(4)",
+            "request": "launch",
+            "mainClass": "chap09.Ex3",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "GenMethod1Demo$Utils",
+            "request": "launch",
+            "mainClass": "chap09.GenMethod1Demo$Utils",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "GenMethod2Demo",
+            "request": "launch",
+            "mainClass": "chap09.GenMethod2Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "GenMethod3Demo",
+            "request": "launch",
+            "mainClass": "chap09.GenMethod3Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "GenericClass2Demo",
+            "request": "launch",
+            "mainClass": "chap09.GenericClass2Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "ThrowsDemo",
+            "request": "launch",
+            "mainClass": "chap09.ThrowsDemo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch1Demo",
+            "request": "launch",
+            "mainClass": "chap09.TryCatch1Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch2Demo",
+            "request": "launch",
+            "mainClass": "chap09.TryCatch2Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch3Demo",
+            "request": "launch",
+            "mainClass": "chap09.TryCatch3Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch4Demo",
+            "request": "launch",
+            "mainClass": "chap09.TryCatch4Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "UnChecked1Demo",
+            "request": "launch",
+            "mainClass": "chap09.UnChecked1Demo",
+            "projectName": "BigData_java_5cce1c52"
+        },
+        {
+            "type": "java",
+            "name": "UnChecked2Demo",
+            "request": "launch",
+            "mainClass": "chap09.UnChecked2Demo",
+            "projectName": "BigData_java_5cce1c52"
+        }
+    ]
+}
